@@ -1,7 +1,20 @@
 function evenOrOdd(n) {
-    return "";
+    if (n%2 ==0)
+    return "even";
+    else return "odd";
 }
 
+/*greetings exercise*/
 function greeting(name) {
-    return "";
+    if (name ==="Javi")
+    return "Hola, Javi!";
+    else if
+    (name ==="gente")
+    return "Hola, gente!";
+    else (name ==="gente")
+    return "Hola, gente!";
 }
+
+
+
+
